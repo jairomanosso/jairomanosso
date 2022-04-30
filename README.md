@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @jairomanosso
+- 🌱 I’m currently learning Front-End (HTML/CSS/JS)
